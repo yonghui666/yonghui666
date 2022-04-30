@@ -22,7 +22,7 @@
 
 | 项目 | Stars | Forks |
 | --- | --- | ---|
-| [**`nest.js-base` 一个nest.js后台项目开发模板**](https://github.com/niuwenzheng/nestjs-base) | - | - |
-| [**`hexo好看的博客`** Hexo博客，改改配置即可使用](https://github.com/yonghui666/blog)
+| [**`nest.js-base`** 一个nest.js后台项目开发模板](https://github.com/niuwenzheng/nestjs-base) | - | - |
+| [**`hexo好看的博客`** Hexo博客，改改配置即可使用](https://github.com/yonghui666/blog)| - | - |
 | --- | --- | ---|
 
