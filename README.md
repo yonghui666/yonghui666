@@ -12,6 +12,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 
 #### 常用工具
 
@@ -22,7 +23,7 @@
 
 | 项目 | Stars | Forks |
 | --- | --- | ---|
-| [**`nest.js-base`** 一个nest.js后台项目开发模板](https://github.com/niuwenzheng/nestjs-base) | - | - |
+| [**`Nest.js-base`** 一个Nest.js后台项目开发模板](https://github.com/niuwenzheng/nestjs-base) | - | - |
 | [**`hexo好看的博客`** Hexo博客，改改配置即可使用](https://github.com/yonghui666/blog)| - | - |
 | --- | --- | ---|
 
